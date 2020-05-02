@@ -1,6 +1,12 @@
+### MAC ###
+.DS_STORE
+/**/.DS_STORE
+
+### Python ###
+*.py[cod]
+
 # Compiled class file
 *.class
-*.pyc
 
 # Log file
 *.log
